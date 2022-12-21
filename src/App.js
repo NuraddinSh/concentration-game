@@ -16,7 +16,7 @@ const [isConfetti,setIsConfetti]=React.useState(false)
 //newGame OnClick
 function startGame()
 {
-   // imagedata dosyasındaki resimleri içeren images dizisi, her resimden 2 tane olacak şekilde ( ..., ... ) newcards dizesine atandı
+   
     const newCard=[...imagesData.images,...imagesData.images]
 
     //newCard dizisini karıştırıyoruz resimler random dağılsın

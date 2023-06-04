@@ -3,8 +3,7 @@ Memory Game Project
 
 # Game Description
 
-Build a Card Memory Game with React
-This project we will build memory game.
+Build a Card Memory Game with React.
 
 The card memory game is a simple game to test the player’s memory. In a deck of paired cards, the player needs to select a matching pair in consecutive turns. The player wins the game when all matching pairs are selected.
 
@@ -24,7 +23,7 @@ Open http://localhost:3000 to view the game in the browser.
 
 # Technologies
 
-HTML, CSS , Javascript ,React (especially Hooks)
+HTML, CSS , Javascript ,React (Hooks)
 https://reactjs.org/docs/hooks-intro.html
 
 
